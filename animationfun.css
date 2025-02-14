@@ -1,0 +1,22 @@
+.creeper {
+   
+}
+
+/* .creeper:hover {
+    display: inline-block;
+    transform: scale(0.9);
+    cursor: pointer; 
+    margin: 0 0.5rem;
+    background-color: red;
+    animation: flash; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 4s; /* don't forget to set a duration! */
+} */
+
+.triangle {
+    
+}
+
+.sitting {
+    width: calc(100% - (60px + 32px));
+
+}
